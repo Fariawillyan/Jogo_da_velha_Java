@@ -1,6 +1,6 @@
 # Jogo_da_Velha_Java
 
-![faria](https://img.shields.io/github/issues/Fariawillyan/Jogo_Xadrez_C) ![faria2](https://img.shields.io/github/forks/Fariawillyan/Jogo_Xadrez_C) ![](https://img.shields.io/github/stars/Fariawillyan/Jogo_Xadrez_C)
+![faria](https://img.shields.io/github/issues/Fariawillyan/Jogo_da_velha_Java) ![faria2](https://img.shields.io/github/forks/Fariawillyan/Jogo_da_velha_Java) ![](https://img.shields.io/github/stars/Fariawillyan/Jogo_da_velha_Java)
 
 
 # 🚀 Linguagens Java <code><img height="20" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"></code>
