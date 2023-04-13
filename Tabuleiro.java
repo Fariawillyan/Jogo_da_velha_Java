@@ -80,7 +80,7 @@ public class Tabuleiro extends Jogador {     // jogador herda de tabulerio
 
         switch (vencedor) {
 
-            case 1 -> System.out.println("Vit�ria");
+            case 1 -> System.out.println("Vitoria");
 
             case 2 -> System.out.println("Derrota");
 

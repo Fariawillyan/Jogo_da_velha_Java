@@ -27,17 +27,17 @@ public class JogoDaVelha { // classe
 
             switch (opcao) {
                 case 1 -> {
-                    System.out.println("Modo Facil");
+                    System.out.println("Modo Facil (Voce contra Voce)");
                     comp.computadorA();
                 }
 
                 case 2 -> {
-                    System.out.println("Modo Medio");
+                    System.out.println("Modo Medio (Você contra a Maquina)");
                     comp.computadorB();
                 }
 
                 case 3 -> {
-                    System.out.println("Modo Dificil");
+                    System.out.println("Modo Dificil (em breve)");
                     comp.computadorC();
                 }
             }
